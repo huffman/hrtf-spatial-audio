@@ -1,4 +1,4 @@
-# HRTFs
+# HRTF Spatialized Audio
 
 This project was created for educational purposes to learn more about
 synthesizing 3D spatialized audio using HRTFs.  The result is a beep that
